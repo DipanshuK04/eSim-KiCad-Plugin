@@ -12,7 +12,6 @@ Developed by Dipanshu Katole under **FOSSEE, IIT Bombay** - part of the open-sou
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
   - [Windows](#windows)
@@ -64,9 +63,7 @@ This plugin is designed for students and engineers who want a quick and reliable
 
 ---
 
-## Screenshots
-
-> *(Add screenshots of the plugin button in KiCad toolbar and a sample HTML report here)*
+[View PDF Report](eSim-KiCad-Plugin\esim_inspect\DesignInspectionReport_LED.pdf)
 
 ---
 
